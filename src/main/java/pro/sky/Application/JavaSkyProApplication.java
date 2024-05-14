@@ -1,4 +1,4 @@
-package pro.sky.JavaSkyPro;
+package pro.sky.Application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
